@@ -1,0 +1,44 @@
+{
+    "palco": {
+        "nombre": "palco",
+        "ciudad": "florida",
+        "plantel_tecnico": {
+            "director_tecnico": "",
+            "preparador_arqueros": "",
+            "preparador_fisico": "",
+            "medico": "",
+            "fisioterapeuta": ""
+        },
+        "jugadores": [],
+        "estadisticas": {
+            "partidos_jugados": 0,
+            "victorias": 0,
+            "empates": 0,
+            "derrotas": 0,
+            "goles_a_favor": 0,
+            "goles_en_contra": 0,
+            "puntos": 0
+        }
+    },
+    "sapo": {
+        "nombre": "sapo",
+        "ciudad": "florida",
+        "plantel_tecnico": {
+            "director_tecnico": "",
+            "preparador_arqueros": "",
+            "preparador_fisico": "",
+            "medico": "",
+            "fisioterapeuta": ""
+        },
+        "jugadores": [],
+        "estadisticas": {
+            "partidos_jugados": 0,
+            "victorias": 0,
+            "empates": 0,
+            "derrotas": 0,
+            "goles_a_favor": 0,
+            "goles_en_contra": 0,
+            "puntos": 0
+        }
+    }
+}
